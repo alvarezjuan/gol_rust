@@ -5,6 +5,8 @@ Install
 
 - Install Rust Development environment, including cargo
 
+  This open REST server on http://127.0.0.1:8000/
+
 Build
 
 - cargo build
